@@ -1,4 +1,4 @@
-#ATENÇÃO// se seu codigo estiver dando erro ao rodar pelo Run code
+#ATENÇÃO// se seu codigo estiver dando erro ao rodar pelo Run code pelo arquivo main.py
 Em vez de executar o script diretamente, navegue para o diretório raiz do projeto e execute-o como um módulo:
 
 PS C:\caminho\para\seu\projeto>
