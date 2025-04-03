@@ -1,0 +1,21 @@
+{
+    "perfil": {
+        "nome": "",
+        "idade": "",
+        "altura": "",
+        "genero": "",
+        "condicoes_medicas": ""
+    },
+    "medidas": [
+        {
+            "data": "31/03/2025",
+            "peso": 59.0,
+            "pressao": "120/80",
+            "glicemia": "12",
+            "colesterol": "12"
+        }
+    ],
+    "medicamentos": [],
+    "atividades": [],
+    "consultas": []
+}
