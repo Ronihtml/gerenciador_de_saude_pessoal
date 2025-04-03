@@ -1,5 +1,6 @@
 minha_aplicacao/
 │
+├── setup.py                # Script de instalação para distribuição do pacote
 ├── main.py                 # Ponto de entrada principal da aplicação
 ├── app.py                  # Configuração e inicialização da aplicação
 │
@@ -32,4 +33,5 @@ minha_aplicacao/
 │   └── dados_saude         # Dados de saúde do usuário
 │
 └── docs/                   # Documentação
-    └── README.md           # Documentação do projeto
+    ├── README.md           # Documentação do projeto
+    └── requirements.txt    # Lista de dependências
