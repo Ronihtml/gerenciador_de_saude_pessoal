@@ -1,3 +1,11 @@
+#ATENÇÃO// se seu codigo estiver dando erro ao rodar pelo Run code
+Em vez de executar o script diretamente, navegue para o diretório raiz do projeto e execute-o como um módulo:
+
+PS C:\caminho\para\seu\projeto>
+python -m gerencer_saude.minha_aplicacao.main
+
+//////////////////////////////////////////////////////////////////////////////
+
 minha_aplicacao/
 │
 ├── setup.py                # Script de instalação para distribuição do pacote
